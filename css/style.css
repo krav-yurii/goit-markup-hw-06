@@ -347,7 +347,7 @@ input {
       rgba(var(--gradient-background-color)),
       rgba(var(--gradient-background-color))
     ),
-    url(../images/hero-section/mobile-hero-section-bg-img-1x.jpg);
+    url(../images/hero-section/mobile-hero-section-bg-img-2x.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -377,7 +377,7 @@ input {
         rgba(var(--gradient-background-color)),
         rgba(var(--gradient-background-color))
       ),
-      url(../images/hero-section/tablet-hero-section-bg-image-1x.jpg);
+      url(../images/hero-section/tablet-hero-section-bg-image-2x.jpg);
   }
   @media (min-resolution: 192dpi) {
     .hero-section {
@@ -403,7 +403,7 @@ input {
         rgba(var(--gradient-background-color)),
         rgba(var(--gradient-background-color))
       ),
-      url(../images/hero-section/desktop-hero-section-bg-image-1x.jpg);
+      url(../images/hero-section/desktop-hero-section-bg-image-2x.jpg);
   }
   @media (min-resolution: 192dpi) {
     .hero-section {
